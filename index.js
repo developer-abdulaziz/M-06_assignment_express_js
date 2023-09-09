@@ -1,6 +1,7 @@
-// const app = require('./app');
+// Import / require App
+const app = require('./app');
 
-// app.get("/",(req,res) => {
-//     res.send("Hello world")
-// });
+app.get("/",(req,res) => {
+    res.send("Hello world")
+});
 
