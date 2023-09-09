@@ -10,4 +10,3 @@ exports.delete = async (req, res) => {
 exports.update = async (req, res) => {
     res.send('Create Blog API');
 }
-
