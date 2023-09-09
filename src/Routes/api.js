@@ -26,4 +26,4 @@ const titleController = require('../Controllers/titleController');
 
 
 // Route all requests to the appropriate controller
-router.get()
+router.get();
